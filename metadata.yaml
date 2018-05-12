@@ -1,0 +1,33 @@
+_repo: Oriental-Women_32418
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pollard, Edward B.
+    aliases:
+    - Pollard, Edward Bagby
+    - Pollard, Edward B., (Edward Bagby)
+    - Pollard, E. B. (Edward B.)
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '35838'
+    url: http://www.gutenberg.org/2009/agents/35838
+description: ''
+gutenberg_issued: '2010-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Woman: in all ages and in all countries, Volume 4'
+subjects:
+- !lcc 'DS'
+- !lcsh 'Women -- Asia -- History'
+- !lcsh 'Women -- Middle East -- History'
+- !lcc 'HQ'
+title: Oriental Women
+url: http://www.gutenberg.org/ebooks/32418
